@@ -89,6 +89,15 @@
 - [axios 实例应用及源码剖析 - xhr篇](https://github.com/ronffy/axios-tutorial) -- [ronffy](https://github.com/ronffy)
 - [深入浅出 axios 源码](https://zhuanlan.zhihu.com/p/37962469) -- [尼库尼库桑](https://www.zhihu.com/people/zhang-lei-lei-38-57/activities)
 
+## 📂 Design Patterns
+
+- [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html) -- [me115](https://github.com/me115)
+- [设计模式看了又忘，忘了又看？](https://mp.weixin.qq.com/s/WiPwb7AyVlxyr1_kYXt96w) -- LieBrother
+
+## 📂 Mini program
+
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp/blob/master/README.md) -- [justjavac](https://github.com/justjavac)
+
 ## 📂 Interview
 
 - [InterviewMap](https://yuchengkai.cn/docs/frontend/) -- [InterviewMap](https://github.com/InterviewMap)
