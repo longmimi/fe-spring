@@ -73,6 +73,11 @@
 - [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/) -- [zhongsp](https://github.com/zhongsp)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/) -- [jkchao](https://github.com/jkchao)
 
+## 📂 Taro
+
+- [Taro官方文档](https://ts.xcatliu.com/) -- [auto](https://taro.aotu.io/)
+
+
 ## 📂 Babel
 
 - [Babel 手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md) -- [jamiebuilds](https://github.com/jamiebuilds)
